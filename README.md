@@ -4,7 +4,11 @@ Hands on Linux system administration projects, automation scripts, and infrastru
 
 Linux Introduction
 
-Things I learned
   Open and use the terminal.
   Use basic commands: echo, whoami, id.
   Extract a specific identity detail with id -un.
+
+Display User and Group Information
+  identifing the account currently logged in to the Linux environment and inspect the account's group memberships
+
+  By using whoami and id, I learned how to check which user is currently logged in and how to inspect the account's uid, primary gid, and supplementary groups
