@@ -20,3 +20,11 @@ Listing contents with ls and its options
 Copying files and directories with cp
 Moving and renaming with mv
 Removing files and directories with rm and rmdir
+
+File contents and comparing
+  You used cat to view the entire contents of a file.
+You learned how to use cat -n to view file contents with line numbers.
+You used head to view the beginning of a file, both by lines and by bytes.
+You used tail to view the end of a file, both by lines and by bytes.
+You learned how to use diff to compare the contents of files.
+Finally, you used diff -r to compare entire directories.
